@@ -1,5 +1,5 @@
 <idea-plugin>
-  <id>org.dudariev.converter.generator</id>
+  <id>kachan.converter.generator</id>
   <name>Converter</name>
   <version>1.5.0</version>
   <vendor email="kachanserhii@gmail.com">Serhii Kachan</vendor>

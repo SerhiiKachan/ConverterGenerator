@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d212e050-318d-4b58-8d01-7b5677156750" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YzFiO5V23B0gtVbQD2hRV1xUyO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.40804598" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Plugin" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="ConverterGenerator" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="ConverterGenerator" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d212e050-318d-4b58-8d01-7b5677156750" name="Default Changelist" comment="" />
+      <created>1583937641626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583937641626</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="238" key="#Notifications" timestamp="1583939875546">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="552" y="238" key="#Notifications/0.1200.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1583939875546" />
+    <state x="808" y="469" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583938015153">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="808" y="469" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.1200.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1583938015153" />
+    <state x="540" y="235" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1583937860044">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="540" y="235" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.1200.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1583937860044" />
+    <state x="740" y="334" key="FileChooserDialogImpl" timestamp="1583939890934">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="740" y="334" key="FileChooserDialogImpl/0.1200.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1583939890934" />
+    <state x="782" y="496" key="Github.CreateGistDialog" timestamp="1583940074029">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="782" y="496" key="Github.CreateGistDialog/0.1200.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1583940074029" />
+    <state x="812" y="473" key="Github.ShareDialog" timestamp="1583939949990">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="812" y="473" key="Github.ShareDialog/0.1200.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1583939949990" />
+    <state x="440" y="154" key="SettingsEditor" timestamp="1583939987508">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="440" y="154" key="SettingsEditor/0.1200.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1583939987508" />
+    <state x="790" y="371" key="svn.repositoryBrowser" timestamp="1583939959812">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="790" y="371" key="svn.repositoryBrowser/0.1200.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1583939959812" />
+  </component>
+</project>
